@@ -1,18 +1,50 @@
-.home-text{
-      color: blueviolet; 
- }
+
 
  
 body{
-    background-color: #FFFBEB;
+    background-color: #FFE6F7;
+}
+
+h1{
+    color: #863A6F; 
+}
+
+h2{
+    color: #863A6F; 
 }
 
 
+.nav-link  {
+    color: #FFADBC;
+}
 
-li {
-    color: #310a85;
+.nav-link:hover {
+    color: #D989B5;
 }
 
 .navbar-custom{
-    background-color: #D09CFA;
+    background-color: #863A6F;
+}
+
+i{
+   color: #863A6F;
+}
+
+i:hover{
+    color: #FFADBC;
+ }
+
+.btn{
+    background-color: #863A6F;
+    color: #FFADBC;
+}
+
+.btn:hover{
+    background-color: #FFADBC;
+    color: #863A6F;
+}
+
+.progress-bar {
+    background-color: #863A6F;
+
 }
